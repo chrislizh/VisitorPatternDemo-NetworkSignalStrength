@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView tvSignalStrength_;
+    private TextView tvSignalStrength_;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
